@@ -175,6 +175,10 @@ docker compose exec postgres psql -U agent -d agentdb -c "SELECT order_id, statu
 
 **Change the Google API key or models** – edit `.env`, then `docker compose up -d` (recreates the backend).
 
+## Running with Docker for the app (for development)
+```..../abc-agentic-ai-app> docker compose up --build```
+Hit browser => http://localhost:8501
+
 ## Running without Docker for the app (optional, for development)
 
 Keep Postgres and Chroma in Docker, run the code locally (Python 3.11):
@@ -217,3 +221,6 @@ Local defaults point at `localhost:5432` (Postgres) and `localhost:8001` (Chroma
 * `cancel_order` acts immediately when the user asks; for production consider adding a confirmation step (LangGraph `interrupt`).
 * Embeddings use Gemini (`models/gemini-embedding-001`), stored in a separate Chroma collection (`company_policies_gemini`), so an older OpenAI-built index is never mixed in. If you change `EMBEDDING_MODEL`, rebuild with `docker compose exec backend python -m app.cli ingest --force`.
 * Chroma server and client are both pinned to 0.5.23 — keep them in sync if you upgrade.
+
+# screenshot how UI looks
+![](./screenshots/screenshot.png)
