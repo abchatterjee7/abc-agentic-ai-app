@@ -1,0 +1,10 @@
+[
+  {"order_id": "ORD-1001", "customer_name": "Aarav Sharma", "item": "Wireless Headphones", "quantity": 1, "total_amount": 2499.00, "status": "processing"},
+  {"order_id": "ORD-1002", "customer_name": "Priya Nair", "item": "Mechanical Keyboard", "quantity": 1, "total_amount": 5999.00, "status": "shipped"},
+  {"order_id": "ORD-1003", "customer_name": "Rohan Mehta", "item": "USB-C Hub", "quantity": 2, "total_amount": 3198.00, "status": "delivered"},
+  {"order_id": "ORD-1004", "customer_name": "Sneha Reddy", "item": "Laptop Stand", "quantity": 1, "total_amount": 1499.00, "status": "confirmed"},
+  {"order_id": "ORD-1005", "customer_name": "Vikram Singh", "item": "27-inch Monitor", "quantity": 1, "total_amount": 15999.00, "status": "pending"},
+  {"order_id": "ORD-1006", "customer_name": "Ananya Iyer", "item": "Webcam 1080p", "quantity": 1, "total_amount": 2799.00, "status": "cancelled"},
+  {"order_id": "ORD-1007", "customer_name": "Karan Patel", "item": "Ergonomic Mouse", "quantity": 3, "total_amount": 4497.00, "status": "processing"},
+  {"order_id": "ORD-1008", "customer_name": "Meera Joshi", "item": "Desk Lamp", "quantity": 1, "total_amount": 1299.00, "status": "shipped"}
+]

@@ -1,0 +1,19 @@
+Title: Code of Conduct
+
+Respect and Inclusion
+The company has zero tolerance for harassment, discrimination or bullying based on gender, race, religion, age, disability, sexual orientation or any other protected characteristic. Everyone is expected to treat colleagues, partners and customers with respect.
+
+Reporting Concerns
+Concerns can be reported to HR, to your manager, or anonymously through the ethics hotline at ethics@example.com or the 24x7 hotline. Retaliation against anyone who reports a concern in good faith is strictly prohibited and is itself a disciplinary offence.
+
+Conflicts of Interest
+Employees must disclose any outside employment, board seats or financial interests that could conflict with company interests. Gifts from vendors or clients valued above 2,000 must be declined or reported to the compliance team.
+
+Confidentiality and Data Protection
+Customer data, source code and internal financial information are confidential. Do not share them outside the company without written approval. Report suspected data breaches to the security team within 24 hours.
+
+Use of Company Resources
+Company equipment and accounts are for business use; limited personal use is acceptable if it does not interfere with work or breach security policy.
+
+Disciplinary Process
+Violations may lead to warnings, suspension or termination depending on severity, following a fair investigation.
